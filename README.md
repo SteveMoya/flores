@@ -5,7 +5,7 @@
 
 ## Ejemplo en vivo
 
-[![Website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://stevemoya.github.io/flores.github.io/)
+[![Website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://stevemoya.github.io/flores/)
 
 ## Descripción 📑
 
